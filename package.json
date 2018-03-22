@@ -1,0 +1,9 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "decoration design",
+  "main": "index.js",
+  "repository": "git@github.com:weigang992003/design.git",
+  "author": "Robin",
+  "license": "MIT"
+}
