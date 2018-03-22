@@ -1,5 +1,9 @@
 {
   "name": "design",
+  "description": "decoration design",
+  "repository": "git@github.com:weigang992003/design.git",
+  "author": "Robin",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
